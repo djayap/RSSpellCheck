@@ -1,0 +1,22 @@
+body {
+  background-image: url("/images/background.jpg");
+}
+header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+section {
+    margin-top: 20px;
+}
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+}
+
+div {
+  margin: 50px 50px 0px 50px;
+}
