@@ -3,16 +3,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <title>Spell check code</title>
 </head>
 
 <body>
 
-<h1 id="wordDisplay">Loose Ria Learn the spelling</h1>
+<h1 id="wordDisplay">Ria Learn the spelling</h1>
 <form>
 
+    <div class="w3-bar w3-black">
+        <button class="w3-bar-item w3-button" id="practice">Practice</button>
+        <button class="w3-bar-item w3-button" onclick="stats">Result</button>
+    </div>
+ <div id="divpractice">
     <div>
-        <button id="btn"> Give a word</button>
+        <button id="btn">Give a word</button>
     </div>
 
 <div>
@@ -27,7 +33,10 @@
 <div>
     <p id="result"></p>
 </div>
-
+ </div>
+ <div id="statsdiv"  style="display:none">
+    <p> Here is your pactice result</p>
+ </div>
 </form>
 <script src="js/jquery-3.7.1.min.js"></script>
 <script src="js/script.js"></script>

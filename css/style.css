@@ -20,3 +20,9 @@ footer {
 div {
   margin: 50px 50px 0px 50px;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
