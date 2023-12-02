@@ -6,39 +6,40 @@
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <title>Spell check code</title>
 </head>
-
 <body>
-
-<h1 id="wordDisplay">Ria Learn the spelling</h1>
+<h1 id="wordDisplay">Ria learn the spelling</h1>
 <form>
 
     <div class="w3-bar w3-black">
         <button class="w3-bar-item w3-button" id="practice">Practice</button>
-        <button class="w3-bar-item w3-button" onclick="stats">Result</button>
+        <button class="w3-bar-item w3-button" id="performanceResult">Result</button>
     </div>
- <div id="divpractice">
+ <div id="divpractice" style="float:left;border:5px solid black">
     <div>
-        <button id="btn">Give a word</button>
+        <img src="/images/clipart2537840.png" width="50px" style="margin-right:10px"/>
+        <button id="btn" tabindex="1">Click for a word</button>
     </div>
 
 <div>
-    <label for="inputWord">Enter a word:</label>
-    <input type="text" id="inputWord" spellcheck="false">
+    <label for="inputWord">Spell the word:</label>
+    <input type="text" id="inputWord" spellcheck="false" tabindex="2">
 </div>
 
 <div>
-    <button id="verifySpell">Check Spelling</button>
+    <button id="verifySpell" tabindex="3">Check your Spelling</button>
 </div>
 
 <div>
     <p id="result"></p>
 </div>
  </div>
- <div id="statsdiv"  style="display:none">
-    <p> Here is your pactice result</p>
+ <div   >
+     <img src="images/Spelling-tree.png" alt="Description of the image" class="blend-image">
  </div>
 </form>
+
 <script src="js/jquery-3.7.1.min.js"></script>
 <script src="js/script.js"></script>
+<script src="js/mockstorage.js"></script>
 </body>
 </html>

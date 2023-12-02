@@ -6,13 +6,42 @@ var synth = window.speechSynthesis;
 
 var randomWord = 'actual';
 var isCorrectWord = true;
+var savedResults = ["earth#4#5"];
 
 
-$(document).ready(function() {
+$(document).ready(function(event) {
     readFileAndStore();
+    preventDefault();
+    setTabIndex();
      $('#btn').click(giveWord);
      $('#verifySpell').click(checkSpelling);
+    // $('performanceResult').click(PerformanceReport);
 });
+
+function preventDefault() {
+       $(document).on('click', function(event) {
+             event.preventDefault();
+        });
+
+        $(document).on('submit', 'form', function(event) {
+          event.preventDefault();
+        });
+}
+
+function setTabIndex() {
+         // Get all focusable elements with tabindex attribute
+            var focusableElements = document.querySelectorAll('[tabindex]');
+            var focusableArray = Array.from(focusableElements);
+            document.addEventListener('keydown', function (event) {
+                if (event.key === 'Tab') {
+                    event.preventDefault(); // Prevent default tab behavior
+                    var currentElement = document.activeElement;
+                    var currentIndex = focusableArray.indexOf(currentElement);
+                    var nextIndex = (currentIndex + 1) % focusableArray.length;
+                    focusableArray[nextIndex].focus();
+                }
+            });
+}
 
 function readFileAndStore() {
     var filePath = 'sample.txt';
@@ -28,16 +57,14 @@ function readFileAndStore() {
 }
 
 function giveWord(event) {
-        event.preventDefault();
-        clear();
+       clear();
         if (isCorrectWord == true) {
             randomWord = generateRandomWord();
             isCorrectWord = false;
-            changeBtnRepea();
+            changeBtnRepeat();
          }
         speakUtterance(randomWord);
         $("#inputWord").val("");
-   		event.stopPropagation();
 }
 
 function generateRandomWord() {
@@ -47,28 +74,49 @@ function generateRandomWord() {
 }
 
 function checkSpelling(event) {
-        event.preventDefault();
     	var resultElement = $("#result");
     	inputWord = $("#inputWord").val();
     	if (randomWord == inputWord) {
     	    var rightMsg = "Well done Rhea, Spelling is correct!";
-    		resultElement.text(rightMsg);
-    		resultElement.css('color', 'green');
-    		disableButton();
-            speakUtterance(rightMsg);
-            isCorrectWord = true;
+            setAction(rightMsg, true);
        	} else {
-    	    var worngMsg = "Rhea, Spelling is incorrect. ";
-    		resultElement.text(worngMsg);
-       		resultElement.css('color', 'red');
-            speakUtterance(worngMsg);
-    		isCorrectWord = false;
+    	    var worngMsg = "Rhea, Spelling is incorrect. It is not "+inputWord +".";
+    	    setAction(worngMsg, false);
     	}
-    	changeBtnRepea();
-    	event.stopPropagation();
+    //	updateData(isCorrectWord);
+    	changeBtnRepeat();
 }
 
-function changeBtnRepea() {
+function setAction(msg,isWordRight) {
+        isCorrectWord = isWordRight;
+        var resultElement = $("#result");
+    	resultElement.text(msg);
+    	if (isCorrectWord) {
+    	    resultElement.css('color', 'green');
+    	} else {
+    	    resultElement.css('color', 'red');
+    	}
+        disableButton();
+        speakUtterance(msg);
+}
+
+function updateData(isCorrectWord) {
+  if(dataexist(randomWord) > 0) {
+        console.log("HEREH IS TE DATA")
+  } else {
+
+    // Your JSON entry (a string)
+            jsonEntry = {};
+            jsonEntry["name"] = randomWord;
+            jsonEntry["correct"] =  (isCorrectWord) ?  1: 0;
+            jsonEntry["incorrect"] = 0;
+
+            // Parse the JSON string into a JavaScript object
+            var parsedData = JSON.stringify(jsonEntry);
+  }
+}
+
+function changeBtnRepeat() {
     if (isCorrectWord == false) {
        $('#btn').text("Repeat word");
     } else {
@@ -95,5 +143,9 @@ function speakUtterance(msg) {
     var utterance = new SpeechSynthesisUtterance(msg);
     utterance.lang = "en-GB";
     synth.speak(utterance);
-
 }
+
+
+
+
+
