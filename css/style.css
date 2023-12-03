@@ -22,6 +22,7 @@ body {
     font-size: 1.5em;
 }
 
+input[type="text"] { border: 3px solid #000 }
 label{
     color: #2596be;
     font-size: 2em;
