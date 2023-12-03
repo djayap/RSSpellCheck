@@ -76,7 +76,7 @@ function generateRandomWord() {
 function checkSpelling(event) {
     	var resultElement = $("#result");
     	inputWord = $("#inputWord").val();
-    	if (randomWord == inputWord) {
+    	if (randomWord == $.trim(inputWord)) {
     	    var rightMsg = "Well done Rhea, Spelling is correct!";
             setAction(rightMsg, true);
        	} else {
