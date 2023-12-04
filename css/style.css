@@ -15,14 +15,16 @@ body {
     background-image: url("/images/overlay.png"), linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
 }
 /* Hover styles */
-#btn:hover {
-    background-color: grayscale;
+#btn:hover, #verifySpell:hover {
+    background-color: #7393B3;
+    color: #fff;
 }
 #btn,#verifySpell {
     font-size: 1.5em;
 }
 
 input[type="text"] { border: 3px solid #000 }
+
 label{
     color: #2596be;
     font-size: 2em;
@@ -101,3 +103,9 @@ input[type="submit"],
 		color:#2596be;
 		font-size: 2em;
 	}
+
+	@media (max-width: 600px) {
+      div#treeimg {
+        display: none;
+      }
+    }
