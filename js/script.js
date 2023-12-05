@@ -63,6 +63,7 @@ function giveWord(event) {
        clear();
         if (isCorrectWord == true) {
             randomWord = generateRandomWord();
+            wordAttemptCount = 0;
             console.log("randomWord=="+randomWord);
             isCorrectWord = false;
             changeBtnRepeat();
@@ -176,6 +177,7 @@ function speakUtterance(msg) {
                  var newRow = $('<tr>');
                  var className = "color2";
                  str  = value.split("#");
+                 console.log("v=="+str);
                  $('<td >').text(str[0]).appendTo(newRow);
                  $('<td>').text(str[1]).appendTo(newRow);
                  if (str[2] == 1) {
