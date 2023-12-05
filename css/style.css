@@ -118,13 +118,7 @@ input[type="submit"],
 		font-size: 2em;
 	}
 
-	@media (max-width: 600px) {
-      div#treeimg {
-        display: none;
-      }
-    }
-
-    table {
+ table {
        font-size: 2em;
        color:#2596be;
        font-family: Verdana, sans-serif;
@@ -146,3 +140,22 @@ input[type="submit"],
   .color2 {
        background-color:#FB607F;
     }
+
+/* Media query for medium to large screens (min-width: 601px) */
+@media only screen and (max-width: 601px) {
+ div#treeimg {
+         display: none;
+       }
+       #wordDisplay {
+           text-align: center;
+           font-size: 1.2em;
+       }
+
+          #tableResult {
+             width:20em;
+         }
+         #divpractice {
+             width:30em;
+         }
+}
+
