@@ -8,6 +8,7 @@ var randomWord = 'actual';
 var isCorrectWord = true;
 var savedResults = [];
 var startTime, endTime;
+var wordAttemptCount = 0;
 
 
 $(document).ready(function(event) {
@@ -62,6 +63,7 @@ function giveWord(event) {
        clear();
         if (isCorrectWord == true) {
             randomWord = generateRandomWord();
+            //console.log("randomWord=="+randomWord);
             isCorrectWord = false;
             changeBtnRepeat();
          }
@@ -80,14 +82,12 @@ function timerUpdate() {
     if (startTime) {
                 // Record the end time
                 endTime = new Date();
-                console.log('Timer ended at: ' + endTime);
 
                 // Calculate the time difference in milliseconds
                 var timeDifference = (endTime - startTime)/1000;
 
                 // Display the time difference
-                console.log('Time between clicks: ' + timeDifference + ' milliseconds');
-                var x = randomWord  + " # " + timeDifference;
+                var x = randomWord  + " # " + timeDifference + " # " + wordAttemptCount;
                 savedResults.push(x);
             } else {
                 console.log('Please click "Start Timer" first.');
@@ -103,10 +103,9 @@ function checkSpelling(event) {
        	} else {
     	    var worngMsg = "Rhea, Spelling is incorrect. It is not "+inputWord +".";
     	    setAction(worngMsg, false);
+    	    wordAttemptCount++;
     	}
-    //	updateData(isCorrectWord);
-
-    	changeBtnRepeat();
+     	changeBtnRepeat();
 }
 
 function setAction(msg,isWordRight) {
@@ -174,13 +173,18 @@ function speakUtterance(msg) {
         var data = savedResults;
         $.each(data, function(index, value) {
                 // Append each item to the target element
-                var newRow = $('<tr>');
-            // Add cells to the new row
-                str  = value.split("#");
-                  $('<td>').text(str[0]).appendTo(newRow);
-                $('<td>').text(str[1]).appendTo(newRow);
-      // Append the new row to the table body
-                newRow.appendTo(tbody);
+                 var newRow = $('<tr>');
+                 var className = "color2";
+                 str  = value.split("#");
+                 $('<td >').text(str[0]).appendTo(newRow);
+                 $('<td>').text(str[1]).appendTo(newRow);
+                 if (str[2] == 1) {
+                    className = "color1";
+                 } else if (str[2] == 0){
+                    className = "color0";
+                 }
+                 newRow.addClass(className)
+                 newRow.appendTo(tbody);
        });
 }
 
