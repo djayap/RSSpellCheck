@@ -147,20 +147,20 @@ input[type="submit"],
     }
 
 /* Media query for medium to large screens (min-width: 601px) */
-@media only screen and (max-width: 601px) {
+@media only screen and (max-width: 768px) {
 
-body {
-    font-size: 10pt;
-    font-weight: 100;
-}
-label{
-    font-size: 1.4em;
-}
-#btn,#verifySpell {
-    font-size: 1em;
-}
+    body {
+        font-size: 10pt;
+        font-weight: 100;
+    }
+    label{
+        font-size: 1.4em;
+    }
+    #btn,#verifySpell {
+        font-size: 1em;
+    }
 
- div#treeimg {
+    div#treeimg {
          display: none;
        }
        #wordDisplay {
@@ -181,3 +181,25 @@ label{
          }
 }
 
+
+@media only screen and (max-width: 768px) {
+  /* Add specific styles for desktop screens here */
+      div#treeimg {
+              width: 200px;
+      }
+          label{
+              font-size: 1.8em;
+          }
+
+
+}
+
+/*Media query for screens with a minimum width of 992 pixels (small desktop) */
+@media only screen and (min-width: 992px) {
+
+}
+
+/* Media query for screens with a minimum width of 1200 pixels (large desktop) */
+@media only screen and (min-width: 1200px) {
+
+}
