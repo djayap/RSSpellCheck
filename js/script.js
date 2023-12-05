@@ -6,7 +6,8 @@ var synth = window.speechSynthesis;
 
 var randomWord = 'actual';
 var isCorrectWord = true;
-var savedResults = ["earth#4#5"];
+var savedResults = [];
+var startTime, endTime;
 
 
 $(document).ready(function(event) {
@@ -15,7 +16,8 @@ $(document).ready(function(event) {
     setTabIndex();
      $('#btn').click(giveWord);
      $('#verifySpell').click(checkSpelling);
-    // $('performanceResult').click(PerformanceReport);
+     $('#performanceResult').click(PerformanceReport);
+     $('#practice').click(practice);
 });
 
 function preventDefault() {
@@ -65,6 +67,7 @@ function giveWord(event) {
          }
         speakUtterance(randomWord);
         $("#inputWord").val("");
+        startTime = new Date();
 }
 
 function generateRandomWord() {
@@ -73,17 +76,36 @@ function generateRandomWord() {
       		return randomWord;
 }
 
+function timerUpdate() {
+    if (startTime) {
+                // Record the end time
+                endTime = new Date();
+                console.log('Timer ended at: ' + endTime);
+
+                // Calculate the time difference in milliseconds
+                var timeDifference = (endTime - startTime)/1000;
+
+                // Display the time difference
+                console.log('Time between clicks: ' + timeDifference + ' milliseconds');
+                var x = randomWord  + " # " + timeDifference;
+                savedResults.push(x);
+            } else {
+                console.log('Please click "Start Timer" first.');
+            }
+}
 function checkSpelling(event) {
     	var resultElement = $("#result");
     	inputWord = $("#inputWord").val();
     	if (randomWord == $.trim(inputWord)) {
     	    var rightMsg = "Well done Rhea, Spelling is correct!";
             setAction(rightMsg, true);
+            timerUpdate();
        	} else {
     	    var worngMsg = "Rhea, Spelling is incorrect. It is not "+inputWord +".";
     	    setAction(worngMsg, false);
     	}
     //	updateData(isCorrectWord);
+
     	changeBtnRepeat();
 }
 
@@ -145,7 +167,31 @@ function speakUtterance(msg) {
     synth.speak(utterance);
 }
 
+ function generateTable() {
+        var tbody = $('#update tbody');
+        // Create a new row
+         $('#update tbody tr').remove();
+        var data = savedResults;
+        $.each(data, function(index, value) {
+                // Append each item to the target element
+                var newRow = $('<tr>');
+            // Add cells to the new row
+                str  = value.split("#");
+                  $('<td>').text(str[0]).appendTo(newRow);
+                $('<td>').text(str[1]).appendTo(newRow);
+      // Append the new row to the table body
+                newRow.appendTo(tbody);
+       });
+}
 
+function PerformanceReport() {
+  $('#tableResult').show();
+  $('#divpractice').hide();
 
+   generateTable();
+}
 
-
+function practice() {
+      $('#tableResult').hide();
+      $('#divpractice').show();
+}

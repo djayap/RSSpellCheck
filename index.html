@@ -7,7 +7,8 @@
     <title>Spell check code</title>
 </head>
 <body>
-<h1 id="wordDisplay">Ria learn the spelling</h1>
+<h1 id="wordDisplay">Ria learn the spelling
+   </h1>
 <form>
 
     <div class="w3-bar w3-black">
@@ -33,10 +34,25 @@
     <p id="result"></p>
 </div>
  </div>
- <div   >
-     <img src="images/Spelling-tree.png" alt="Description of the image" class="blend-image">
- </div>
+
+<div id="tableResult"  style="float:left;display:none">
+    <table id="update" border="1">
+        <thead>
+        <tr>
+            <th>Words</th>
+            <th>Seconds</th>
+        </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+</div>
+
+<div  id="treeimg">
+    <img src="images/Spelling-tree.png" alt="Description of the image" class="blend-image">
+</div>
 </form>
+
 
 <script src="js/jquery-3.7.1.min.js"></script>
 <script src="js/script.js"></script>

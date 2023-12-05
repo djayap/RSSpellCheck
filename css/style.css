@@ -14,6 +14,10 @@ body {
     background-image: url("/images/overlay.png"), -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
     background-image: url("/images/overlay.png"), linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
 }
+
+div#tableResult {
+display:none;
+}
 /* Hover styles */
 #btn:hover, #verifySpell:hover {
     background-color: #7393B3;
@@ -48,9 +52,19 @@ background-color: #ffffff;
      width:50em;
  }
 
+ #tableResult {
+background-color: #ffffff;
+     color: #636363;
+     border-radius: 0.25em;
+     width:50em;
+ }
+
 #wordDisplay {
     text-align: center;
     font-size: 2em;
+    font-weight: bold;
+    font-style: italic;
+    font: italic bold 130px Georgia, serif;
 }
 
 footer {
@@ -69,10 +83,10 @@ ul {
 }
 
 .blend-image {
- heigh:500px;
   width:600px;
    style="border: none;
    mix-blend-mode: multiply;
+   float:right;
 }
 
 input[type="submit"],
@@ -108,4 +122,10 @@ input[type="submit"],
       div#treeimg {
         display: none;
       }
+    }
+
+    table {
+       font-size: 2em;
+       color:#2596be;
+
     }
