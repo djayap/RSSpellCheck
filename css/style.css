@@ -141,21 +141,43 @@ input[type="submit"],
        background-color:#FB607F;
     }
 
+    #speakerImg {
+        margin-right:10px;
+        width: 50px;
+    }
+
 /* Media query for medium to large screens (min-width: 601px) */
 @media only screen and (max-width: 601px) {
+
+body {
+    font-size: 10pt;
+    font-weight: 100;
+}
+label{
+    font-size: 1.4em;
+}
+#btn,#verifySpell {
+    font-size: 1em;
+}
+
  div#treeimg {
          display: none;
        }
        #wordDisplay {
            text-align: center;
-           font-size: 1.2em;
+           font-size: 1em;
        }
 
           #tableResult {
              width:20em;
          }
          #divpractice {
-             width:30em;
+             width:20em;
+         }
+
+         img#speakerImg {
+              margin-right:2px;
+              width: 18px;
          }
 }
 
