@@ -63,7 +63,7 @@ function giveWord(event) {
        clear();
         if (isCorrectWord == true) {
             randomWord = generateRandomWord();
-            //console.log("randomWord=="+randomWord);
+            console.log("randomWord=="+randomWord);
             isCorrectWord = false;
             changeBtnRepeat();
          }
