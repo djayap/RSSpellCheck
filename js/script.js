@@ -98,11 +98,11 @@ function checkSpelling(event) {
     	var resultElement = $("#result");
     	inputWord = $("#inputWord").val();
     	if (randomWord == $.trim(inputWord)) {
-    	    var rightMsg = "Well done Rhea, Spelling is correct!";
+    	    var rightMsg = "Well done, Spelling is correct!";
             setAction(rightMsg, true);
             timerUpdate();
        	} else {
-    	    var worngMsg = "Rhea, Spelling is incorrect. It is not "+inputWord +".";
+    	    var worngMsg = "Spelling is incorrect. It is not "+inputWord +".";
     	    setAction(worngMsg, false);
     	    wordAttemptCount++;
     	}
@@ -178,6 +178,7 @@ function speakUtterance(msg) {
                  var className = "color2";
                  str  = value.split("#");
                  console.log("v=="+str);
+                 $('<td >').text(++index).appendTo(newRow);
                  $('<td >').text(str[0]).appendTo(newRow);
                  $('<td>').text(str[1]).appendTo(newRow);
                  if (str[2] == 1) {
