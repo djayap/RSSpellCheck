@@ -1,0 +1,2023 @@
+./gradlew.bat bootRun --info -Dserver.port=8090 >> e1.txt
+New ticket : INC11085109
+git push origin HEAD:refs/heads/melinoe/EEDIG-1928-Java11 -f
+
+powercurve_performance_seconds_count{clientId="19061800b0354df4be3d51e5b5abd2", job="bps-svc", trackedExecutionId="REST-CALL-NODE", serviceId="ppDPFSuccess"}
+
+QUOTE12 
+https://eossp.experian.local/eks-dev/da-saas-dev-hb-cdg-dev/clients/8764b03b78c74d2f982f393388c51b
+
+https://publications.opengroup.org/downloadable/customer/products/
+when different DPF Parallel Process chains use the same characteristic
+
+1115L\
+
+Asdfghjklasd@1423
+
+mvn clean install -Dmaven.compiler.source=11 -Dmaven.compiler.target=11                                                                                                                                                                                                                                                                    -Dmaven.test.skip=true
+
+mvn clean install -Dmaven.compiler.source=11 -Dmaven.compiler.target=11 -Dexperian.baseline.skip=true -DskipTests
+
+
+https://experian-eubgdc.okta-emea.com/ (dj4452/August@2025God)
+https://experian-nabgdc.okta.com/ (dj4452/July@2025God)
+
+da-saas-ucb-mn-uk-ucb/
+
+Unique Taxpayer Reference (UTR): 5812450525
+
+mvn dependency:tree -Dverbose -Dincludes=groupId:artifactId >> a.txt
+
+mvn dependency:tree -Dverbose  >> ab.txt
+
+ mvn help:evaluate -Dexpression=maven.compiler.source -Dverbose
+mvn help:evaluate -Dexpression=maven.compiler.source -Dverbose 
+
+
+daily runs:
+
+http://jenkins.eods.dev.uk.experian.eeca:8080/job/qftest-team-runner-nightly/2067/
+
+--------------
+
+https://experian-eubgdc.okta-emea.com/app/UserHome
+
+0017
+6043810--Ref
+https://blog.awsfundamentals.com/solutions-architect-associate-exam-cheat-sheet
+
+https://camre.theskillsnetwork.com/learnercapture/application?course=level-2-event-planning-course-crcc
+
+
+
+git submodule update --init --recursive --remote
+
+mvn test -Dcucumber.options="classpath:com/experian/automation/main/features/originations/DataTransformation/Or.DataTransformation.Sanity.feature"
+mvn test -Dcucumber.options="classpath:com/experian/automation/main/features/originations/DataTransformation/Or.DataTransformation.Sanity.feature"
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/27733/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/27745/--Night
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/27735/-->Master
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/27736/-->Kongleogn
+#
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/27729/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/27712/
+
+https://testrail-gsg.experian.local/index.php?/runs/view/53813&group_by=cases:section_id&group_order=asc&group_id=4474621
+
+Phonics: https://letters-and-sounds.com/phase-2-introduction/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-ui-tools-features/job/master/916/parameters/
+
+Jira : https://code.experian.local/projects/DGAF/repos/test-da-performance-runtime/browse/performance_framework/framework
+10.28.173.3
+Tuesday -13th June @12.50
+Invest engine : £100 (deepa.jp@gmail.com/Flower@123)
+Vanguard : Ria/Maya: £50 (djayaprakash29/Flower@123)
+deepa.jp@gmail.com/Flower!234 (Tax return)
+cloud guru: deepa.jayaprakash@experian.com/Flower@123
+halifax: djayaprakash/
+HMRC pwd: 666487367679/Flower@1234
+BullionPost:  deepa.jp@gmail.com/Delta!234@
+togaf : djayaprakash/Flower1234God987
+vinted: dj4452/Xelta!234
+https://pubs.opengroup.org/togaf-standard/
+
+postman : deepa.jp@gmail.com/Flower@123
+
+mnrc: 29Rima@1026
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/512/
+
+Smithy : 
+
+/software-powercurve-features :: nike :: funcky-integration-ce697dc9-f192-4713-8b70-b2d82601b4b8
+
+/software-powercurve-features ::feature :: EEDIG-2013-add-rest-call-component-to-bps-monitoring-framework-add-http-status
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/24323/
+
+funcky-integration-a836b52c
+
+/software-powercurve-features »  nike/funcky-integration-5a53aa85-c84b-4c0f-bc57-fc07a7ce615f
+/software-powercurve :: develop :: 10156
+/software-powercurve :: develop :: 10227
+/software-powercurve :: develop :: 11947
+
+/software-powercurve :: develop :: 11298
+
+/software-powercurve :: develop :: 11298
+/software-powercurve :: develop :: 10972
+
+/software-powercurve-features :: nike :: funcky-integration-1aa7755a-9e3e-4189-95d9-5e3623160868
+/software-powercurve-features :: nike :: funcky-integration-4f1dc427-10d1-4acc-a2f5-708aba43f237
+
+/software-powercurve-features :: nike :: funcky-integration-4c0614e4-141c-4656-aa73-e5a7a2e31fa2
+ :: 10403
+ 
+ funcky-integration-34de3cb4-ff54-42e3-9210-e713ca88bde0
+remove temp : C:\Users\c78922A\AppData\Roaming
+
+Admins1s./1qazZAQ!
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/509/
+
+https://jira.uk.experian.local/browse/DIG-6297
+
+https://experian.service-now.com/itservices?id=sc_request&is_new_order=true&table=sc_request&sys_id=58331f5593b87690b5b63a7febba106a
+
+Denplan : deepa.jayaprakash@experian.com/Flower@123 (https://www.denplan.co.uk/corporateservices/employees/default.aspx)
+Appa Insurance and kumu money
+OU Pension: deepa.jp@gmail.com/Flower@123 [PIN:290182)
+Experian Penion: deepa.jp@gmail.com/Flower@123
+My hdfc :55881363/#Jayanthi1508
+
+HDFC aama: 55881363/Ragi@100926
+Amma canara: 108629248/10926@Riadma
+ Halifax:djayaprakash/10926Riadma / 260210Riadma
+Mk council: deepa.jp@gmail.com/flower123
+Mk council school : deepa.jp@gmail.com/Flower@123
+Perks@work: deepa.jayaprakash@experian.com/
+outlook: deepa.jp@outlook.com/Felta!2022
+
+voucher : flower123
+deepa.jp@outlook.com/Rima@10262904
+AWS builder passwrd: deepa.jp@outlook.com/
+invetengine: deepa.jp@gmail.com/flower123
+chatgpt: deepa.jayaprakash@experian.com/Flower@12345
+mk8 : deepa.jp@gmail.com/Flower@123
+Austrailia Visa : deepa.jp@gmail.com/RiaMayaDeepa@102629
+oxfordowl: deepa.jp@gmail.com/Xelta!2022
+CGP : deepa.jp@outlook.com/ Flower@123
+amex: djayaprakash29/Xelta!975
+Costco : deepa.jp@gmail.com/Flower@123
+
+(Okta)experian-eubgdc.okta-emea.com : C78922A/August@2025God
+028
+
+Booking Number: BKN-0000998183
+
+INC11007435
+D33paJayaprakashFY24$
+v
+
+
+ROTA TASK : 
+
+1. Note the release number in testrail:master / Run 3359; Product build software-powercurve :: develop,12386
+
+2. Go to confluence page : https://pages.experian.local/display/GPD/Melinoe+Test+Pipelines+Monitoring+and+Troubleshooting
+
+3.Chimerausecase Standard and Chimerausecase Micro are triggered from same jenkin 
+
+4. Open Blue-ocean
+
+
+5. Go to url: https://jenkins-hb-cdg-dev.experianone.io/job/testpipeline-e1-headless/job/master/ and check for nightly run time (chimerausecase CHIMERA:23.00)
+
+6. Go to Chimerausecase https://jenkins-hb-cdg-dev.experianone.io/job/software-use-gsg-chimerausecase/job/develop/
+--------
+
+5800258
+
+
+----
+Soft@2012
+
+
+https://code.experian.local/projects/DASA/repos/software-lib-funcky/commits?until=refs%2Fheads%2FAP-726-funcky-refactor
+
+https://pages.experian.com/pages/viewpage.action?pageId=1062376926
+
+
+
+
+
+12:49
+https://pages.experian.com/pages/viewpage.action?pageId=1062376926
+
+TESTJAVA11
+
+C:\Program Files\PowerCurve\JAVA11_DEVELOP\Originations\Originations Design Studio v1.13\idap\modules\ext\Funcky
+C:\Program Files\PowerCurve\JAVA11_DEVELOP\Originations\Originations Design Studio v1.13\idap\update_tracking
+C:\Program Files\PowerCurve\JAVA11_DEVELOP\Decision Analytics Servers\Repository Server v1.20\bundles
+C:\Program Files\PowerCurve\JAVA11_DEVELOP\Decision Analytics Servers\Job Server v1.20\bundles
+
+netstat -ano | findstr :<PORT>
+netstat -ano | findstr :1200
+netstat -ano | findstr :8264
+netstat -ano | findstr :8090
+
+netstat -ano | findstr :8080
+
+taskkill /PID <PID> /F
+taskkill /PID 9624 /F
+taskkill /PID 3176 /F
+
+taskkill /PID 50192 /F
+
+taskkill /PID 28024 /F
+x``
+
+JAVA112
+
+
+\Java113
+
+Niglty run :
+	
+Orinator Autom : Originators
+Stragery- management-runtime :SMA
+Connectivity Enrichment: CESDS
+
+
+
+GIT
+
+
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-cm2/job/master/1057/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-cm2/job/master/1060/ 
+
+2.3.4-RC--> Develop branch (Done)
+2.3.4-RC--> Java 11/Java8
+-
+2.3.3 -> Java8
+2.3.4-> Java11
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio/job/master/10903/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio/job/master/10905/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/6850/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/6901/
+Imp:: 
+
+CM runtime breaking.
+
+NOTES :
+
+zagreus_java11_test--> IS the branch under java11 powercurve
+
+ https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-cm2/job/master/1023/ - failures( runtime again)
+
+-----------------------------------
+Denplus: Deepa.jayaprakash@experian.com/Flower@123
+
+Veracode Code : mm/dd/yyyy
+
+git rebase origin/master
+
+static code analys: SAST
+Software compisition :SCA
+
+grep "jmockit" `find . -name pom.xml`
+grep "snappy-java" `find . -name pom.xml`
+
+grep "json-path" `find . -name pom.xml`
+
+grep "da-core" `find . -name pom.xml`
+
+grep "2.9.3-SNAPSHOT" `find . -name pom.xml`
+
+grep -r -i "json-path" --include="pom.xml" .
+
+grep "scl-api" `find . -name pom.xml`
+
+git add the_left_out_file
+git commit --amend --no-edit
+
+grep "Level.DEBUG" 
+
+https://da-saas-nnrteyc83zsr.hb-cdg-dev.experianone.io/services/v1/applications/ppDPFSuccess
+
+
+git diff --name-only develop
+
+grep "Component_Decisionprocessflow_Business" `find . -name pom.xml`
+
+
+
+
+grep "29.0.0" `find . -name pom.xml`
+
+mvn clean install -Dmaven.test.skip=true
+
+
+
+Testrail: https://testrail-gsg.experian.local/index.php?/runs/view/53104&group_by=tests:original_case_id&group_order=asc&group_id=-1
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-cm2/job/master/980/
+
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-ui-tools-features/job/master/295/
+----
+
+https://testrail-gsg.experian.local/index.php?/runs/view/53569268
+
+project="Third party library Approval" and description ~ jackson-databind
+
+C:\Users\c78922A\workspace\working\powercurve
+
+https://jenkins-hb-mono-dev.experianone.io/job/software-powercurve-features/job/DIG-5245/
+
+2.13.4.2
+Raise the request for : https://jira.uk.experian.local/browse/TPL-4303
+
+
+https://jira.uk.experian.local/browse/TPL-4421
+-------------
+Jane : Devops
+Security approvals : Seon, Ngan
+------------
+
+https://pages.experian.com/display/GPD/QFTest+Framework#QFTestFramework-Namingconvention
+
+
+https://pages.experian.com/pages/viewpage.action?pageId=981581138
+https://jenkins-main-mars.cd.genesaas.io/job/testpipeline-pc-persona-performance-testing/ 
+
+https://www.perksatwork.com/welcome/index/guid/412E866C-D9A6-425D-9CA8-879AEF40CA13 ( deepa.jayaprakash@experian.com/Flower@123)
+
+https://jira.uk.experian.local/browse/SAAS-130
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/3619/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/3724/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/4242/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/4562/
+Employee number : 72934549
+\\corp-bul-fs01\Team6\rsync\backup\Automation\Tools\QFTest
+custrelations@airvistara.com
+Auto/ExperianW@Y123
+Test@123
+architect/Test@123
+
+Test/Flower@123
+
+TRust key pwd: Secret@123
+TRust key pwd: Secret@123
+Go to:
+Originations\Originations Design Studio v1.13\idap\modules\ext\Funcky
+
+Add meeting and other activities.
+
+pwd :9843243897
+
+IMC5243309
+
+Parent Ticket : IMC5242586
+---
+
+Add powercurve
+Introduction to Experian One: Experian's Cloud Deployment Platform
+
+------
+Form Submitted
+Your case number is: 	02831906
+
+
+Name: deepa Jayaprakash
+Lan id: C78922A
+Work location: London
+
+2022-02-16 07:30:57 PST - Joe Neff Requester Progress Updates
+This person is not an ECS NA person. Please contact Experian's HelpDesk or the UK HelpDesk
+
+
+	
+
+C:\Users\C78922A\Downloads\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin\jmeter -g Build0144_AP_BPS_KARMA_SL_DIG13364_Horizontal_LOAD_173708.csv -o output
+
+literally walk one structure to other
+
+walking down each element and map the target fields.cd 
+
+Heirachy should be same for bulk mapping to work.
+
+
+powercurve code to checkin for modifier
+
+git fetch origin master
+git reset --hard FETCH_HEAD
+
+
+invalidSourceAction
+
+DI-3470
+
+
+-----
+
+
+
+--
+
+
+----------------
+
+LoaD solution
+Edit LDS
+check the operations.
+
+-----------------------------------
+
+Uncle Bakthavachalam: Mulam
+Jayanadhini: Thirovonam
+Viggi : Bharani
+Manisha: Magum
+Vikran :  Puram
+new baby: Anusham
+
+-----------------
+
+Harishankar : Purapusham
+Sridevi :sadhayam
+Sravanthi: Puratadhi
+Arjun: Puram
+----
+
+Sushila : Thiruvadurai
+Shyam : Murgham serasham
+Deepa : Utarthdi 
+Ria : Chithirai (thula)
+Maya: Anusham(virchugam)
+
+-----
+
+
+-----
+
+Admins1s.
+
+Login: sysadmin/Test@123
+architect/Secret@123
+Test/Test@123
+client-ips = 10.226.202.28
+database-server-ips = 10.226.202.59
+job-server-ips = 10.226.202.13
+repository-server-ips = 10.226.202.30
+runner-ips = 10.226.202.14
+
+client-ips = 10.226.202.28
+job-server-ips = 10.226.202.13
+repository-server-ips = 10.226.202.30
+
+
+Build: 57
+job-server-ips = 10.226.202.23
+repository-server-ips = 10.226.202.28
+client-ips = 10.226.202.48
+
+Build: 58
+job-server-ips = 10.226.202.4
+repository-server-ips = 10.226.202.26
+client-ips = 10.226.202.24
+
+Build: 59
+job-server-ips = 10.226.202.47
+repository-server-ips = 10.226.202.38
+client-ips = 10.226.202.62
+
+Build: 62
+job-server-ips = 10.226.202.49
+repository-server-ips = 10.226.202.41
+client-ips = 10.226.202.16
+
+
+Build: 61
+job-server-ips = 10.226.202.22
+repository-server-ips = 10.226.202.49
+client-ips = 10.226.202.62
+
+
+mvn dependency:resolve -U
+
+
+https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#InstanceDetails:instanceId=i-080d24c60727c09f9
+
+https://jenkins-features-mars.cd.genesaas.io/job/testpipeline-pc-persona-performance-testing/job/Zagreus-Performance-Test/17/
+
+https://jenkins-features-mars.cd.genesaas.io/job/testpipeline-pc-persona-performance-testing/job/Zagreus-Performance-Test/58/
+---
+1. Create a VM.
+2. Run ODS from client IP :C:\Program Files\PowerCurve\Studio\bin\ODS.exe
+3. Open Solution Repo.
+4. Add new Solution downloaded from bitbucket (example : https://code.experian.local/projects/DASA/repos/software-datalink-latam-br-serasab49c-v1-7/browse)
+5. Open Datasources. Copy data sources.(Serasa_B49_RESPDS). OPen 'Connectivity Management)
+6. Create Data transformation under datasources.
+7. Add the source and target to this data transformation.
+
+--------------
+
+
+nike/QUAL-6070-studio-performance-new-component
+
+
+EOD 129-EOD 130 -->Degration
+
+-----------------------
+C:\Users\auto\AppData\Local\Temp\export7247612300712961038.xml
+
+
+
+
+---------
+1. All test should be included and sucess 
+2. Update results template
+3. Run macros beside acceptance criteria
+4.
+
+
+Sp;lit funcky on functional test cases.
+Automation code and project struture .
+
+---
+
+DIG-5146
+
+. Powercure code 
+. Look into component interested in
+
+https://pages.experian.com/display/GPD/Zagreus+SDLC+-+Useful+Links
+
+Runtime testing 
+
+How to test the change.
+
+https://pages.experian.com/pages/viewpage.action?pageId=981581138
+
+https://pages.experian.com/display/GPD/Zagreus+SDLC+-+Useful+Links
+
+https://pages.experian.com/display/GPD/Funcky+Library+-+User+Guide
+-------
+
+Co-ordinates  X &Y 
+IDS for funcky
+
+
+DIG-5068
+DIG-5069
+
+---
+
+Funcku-> DT->CM  (AVRO File work)
+
+Funcky Library-> Cross core team , no UI
+
+---
+
+https://pages.experian.com/pages/viewpage.action?pageId=981581138
+
+-------------------
+
+VErify with oxana
+
+https://testrail-gsg.experian.local/index.php?/tests/view/333620955&group_by=tests:id&group_order=asc&group_id=-1
+
+
+Update the Test rail : Null String
+Update the testfail for charset and make as pass.
+
+----------
+1.Jane talk on pipeline
+2.https://pages.experian.com/pages/viewpage.action?pageId=1033804925
+---------------------
+QUALITIfy report
+
+JACKSON 
+
+----
+
+Jenking link ::
+
+Standalone funcky : https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-ui-tools/job/master/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio/job/master/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/
+
+-------------------
+
+Studio interactive tester
+------------------------
+intiated from the component itself = debug studio
+if DT in DPF = debug studio
+if DT in BPF = debug Job Server
+
+
+
+
+Actual runtime BPS
+--------------
+
+
+
+
+
+new component
+Interface module (optional)
+1. GUI - Compoent_data_trans_gui
+2. Business
+3. Runtime Provider -  does the deploymen5t
+4. runtime
+
+------
+Funcky jar
+
+Testrail in registered in automation for the ticket--> wait for the result  , 
+Nuraini to discuss the cases.
+Nigly run funcky
+Testrail automation updation :: its not populating all results , import test rail needs to tick the release run.
+     --->
+
+---
+
+Bi Weekly testing 
+
+---
+
+2.3.4 (Funcky java11) --> No Change future.
+Monorepo  (JAva8 buiold)
+test agaist all comp (java8)
+
+
+
+-------
+
+https://jenkins-hb-mono-dev.experianone.io/job/software-powercurve-features/job/nike%252Ffuncky-integration-dff04899-d41b-4356-a7cb-d143c2db481d/2/
+
+----------------------- 
+Funcky stragery
+
+1.Do we need Funcky 2.3.3 comparison ?
+2.What should be provided for comparison.
+3.What is the overall time for persona test execution?
+4.Mark test autmated (IF needed)
+5. Identify the area for hades vall canvas view
+6. https://testrail-gsg.experian.local/index.php?/cases/view/52218576
+https://testrail-gsg.experian.local/index.php?/cases/view/51811264
+7.
+
+Review the Performance report.
+---
+1. CM error
+2. Review-->Interfer
+3. 
+---
+
+Retrospective :
+1. Check the pending work on this ticket.
+-----------
+
+Nuraini helped me in understanding Jenkins process . She's one of the key person to help me in settling in project.
+My collaboration with Nuraini is mainly focused on studio test , execution of Data Transformation and Funcky Standalone automation. Nuraini has good understanding of studio/runtime automation and logeye analysis. 
+She's polite and always open for discussion. She's extremely organsied at her work , every information and discussion captured in confluence for future reference. We catchup most of her late evening and nuraini is always calm and provides the required input irrespective of her late hours. Thank you so much for taking time in helping me settle in project.
+
+-------------------
+
+Alex:
+
+I worked briefly with Alex. He has good understanding on QFtest automation and eager to understand Experian proces. He came up with the approach of sharing procedure across system. Which is good step forward for Funcky/DT. He's eager to learn about Funcky tool and related Pipeline information.Thanks Alex for all the good work. 
+
+-------
+
+	
+DT execution Baseline test
+
+DT is not able to understand the structure
+
+--
+
+quality gate anything t neds done. Runtime performace report.
+Review 
+DIG-6087
+Reponbsibility transfer->DT, action for us 
+
+-------------------
+
+My interaction with Petar is more on Funcky Automation and Jenkins. He's easily approachable and takes time to explain irrespective of its complexity. He's one point contact for all qftest queries and I dont recall he not having answers for any of qftest automation. I have briefly Interacted with Petar on Jenkin issues and all the time my queries were resloved with clear explanation. His review comments on Funcky automation is been very helpful to team. Thanks Petar for all the help in Zagreus Funcky Automation and Good luck.
+
+--------------
+
+Sofiya is the first person I reachout for queries related to Automation, Performance testing , reports on automation, devops ..etc. She's extremely  knowledgeable at her work and we (Zagreus team) find most queries answered from her. She's passanaite, cheerful, eager and  has Positive attitude towards work. She has accepted many ad-hoc calls and at times late evening to help us with automation/persona/devops (sorry) . Her review comments on Funcky automation is been very helpful to team. Thanks Sofiya for all the help and Good luck.
+
+
+------------------
+
+POC meeting 
+Planning and kickoff meeting (9-9.30)
+------------------------
+
+1. Backward compatibility for DT
+
+--[1-2 in child
+
+--
+primitive static array
+-------
+
+1. register testrail
+2. testrail link
+
+menuItemShowArrayElements
+
+-----------
+Silician -> Both (Black)
+London system --> White
+Pirc--> ostrian attack and  classical in Black
+Itaian (Both)
+caro kahn black
+
+-------
+
+Integration test :
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/11435/
+
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/11447/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/503/	
+
+8:02:51  Scheduling project: testpipeline-studio-features » master
+18:02:59  Starting building: testpipeline-studio-features » master #11388
+
+
+RAV :
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-rav/job/master/7060/ (10.28.173.86)
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-rav/job/master/7277/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-rav/job/master/7097/ ( My develop)
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-rav/job/master/7149/ (My build)
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/11624/ (My new build powercurve)
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/11637/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/11509/ (Jordan RC)
+
+----------
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/506/
+   https://jenkins-hb-mono-dev.experianone.io/job/software-powercurve-features/job/nike%252Ffuncky-integration-5cc9de1f-b077-4f17-bb31-451aefe6567e/1/ (monorepo sucess build)
+   
+   14:51:30  Scheduling project: software-powercurve-features » nike/funcky-integration-5cc9de1f-b077-4f17-bb31-451aefe6567e
+14:51:36  Starting building: software-powercurve-features » nike/funcky-integration-5cc9de1f-b077-4f17-bb31-451aefe6567e #1
+16:01:51  Build software-powercurve-features » nike/funcky-integration-5cc9de1f-b077-4f17-bb31-451aefe6567e #1 completed: SUCCESS
+
+/software-powercurve-features :: nike/funcky-integration-5cc9de1f-b077-4f17-bb31-451aefe6567e
+
+
+
+New build of ODS from above sucess : https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/11569/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/11678/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/11685/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/11878/ (ODS)
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/514/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-ui-tools-features/job/master/788/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-ui-tools-features/job/master/789/
+
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/11906/ (http://logeye.cd.genesaas.io/logeye/pass/id/392901)(ODS)
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/11907/(SDS)
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/11949/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/11960/ (Jordan branch)
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-rav/job/master/7372/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/11970/	 (CMDS)
+
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/11979/ (CEDS)
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/11981/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/12053/
+
+RAV maching for SDS failure : https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-rav/job/master/7406/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-rav/job/master/7440/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-rav/job/master/7481/
+
+---
+
+https://jira.uk.experian.local/browse/DIG-5161
+
+RAV Machne Ace: https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-rav/job/master/7504/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-rav/job/master/7509/( RAV)
+
+£62,646.00
+
+
+https://jenkins-hb-mono-dev.experianone.io/job/software-powercurve-features/job/DIG-Funcky/16/
+
+
+£62,646.00
+
+---
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/12236/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/12239/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/12246/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/12247/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/12273/parameters/
+
+RAV :https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-rav/job/master/7579/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/12286/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/12288/ (SDS)
+		https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/12292/
+
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/15123/ (ODS-121)
+
+software-powercurve :: develop,10198
+
+----------------
+
+
+---------
+
+1% fee ongoing fee
+
+(2.2.8.0)
+
+DIG-6285
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/12348/
+
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/15919/
+
+https://jenkins-features-mars.cd.genesaas.io/job/testpipeline-pc-persona-performance-testing/job/Zagreus-Performance-Test/10/
+
+--------------
+
+1. Pipeline 
+2. Documentation
+3. Standalone failing 
+
+https://jenkins-features-mars.cd.genesaas.io/job/utility-provisioning-generic-performance-ec2/job/Zagreus_ECprovision/9/
+
+
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/14714/ 
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/14726/--> Studio
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/14730/
+
+https://jenkins-features-mars.cd.genesaas.io/job/testpipeline-pc-persona-performance-testing/job/Zagreus-Performance-Test/59/ -->Persona
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/14652/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-ui-tools-features/job/master/849/
+
+Integration build : https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/586/
+
+
+https://jenkins-features-mars.cd.genesaas.io/job/testpipeline-pc-persona-performance-testing/job/Zagreus-Performance-Test/35/
+https://jenkins-features-mars.cd.genesaas.io/job/testpipeline-pc-persona-performance-testing/job/Zagreus-Performance-Test/23/
+	
+https://jenkins-features-mars.cd.genesaas.io/job/testpipeline-pc-persona-performance-testing/job/Zagreus-Performance-Test/42/
+	
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-rav/job/master/8901/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/15124/
+
+(£545)-- >Bharathy (02088434380)
+30st July Sunday -->31st Monday
+
+------------
+
+New Build 
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-ui-tools-features/job/master/854/
+
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-ui-tools-features/job/master/856/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-ui-tools-features/job/master/859/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-ui-tools-features/job/master/862/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-ui-tools-features/job/master/871/
+
+--------------
+
+1.Worked on QFTEst , running the tester
+2. Checking if We can enable nightly run
+--------
+
+1:2:1
+
+1. The daily runtime. I reached to person but he isnt available--> CC your name
+2. We decided last week , we will have new info on runtime.-->
+3. Current status of daily funcky run --> Can you check with hades
+4. Someone reached on DT failure
+5. Leave update(16th-18th)--> Apply in Ppl portal
+
+Retrospective :
+
+1. Monday self developement
+
+https://jenkins-hb-dig-dev.experianone.io/job/software-lib-funcky/job/develop/407/
+--
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-ui-tools-features/job/master/869/ (DeadLock)
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-ui-tools-features/job/master/873/
+	Part 1.Function Panel.Introduce Months Different function in the Date category
+	Part 2.Canvas.Changing return type of source is reflected in execution#
+	
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-ui-tools-features/job/master/874/ 
+     Full greenbuild
+	 
+	 -----runtime-features (DIG-4756)
+	 
+	 https://practice-exam.acloud.guru/5c1151ef-5ffe-4419-a25e-5fb2374f30db/result/148becc1-74f4-4da0-9ab9-722b06232f6f
+	 
+	 -----------
+	 product change --> Not availiable
+	 
+	 --------------
+	 
+	 1. Persona moved for review
+	 2. Persona repots
+	 3. discussion with Jean on jenkins-features-mars
+	 
+	 
+	 ----
+	 
+	 https://jenkins-hb-mono-dev.experianone.io/blue/organizations/jenkins/testpipeline-funcky-integration/detail/master/643/pipeline/93/
+	 Rerun : https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/15830/
+	 
+	 
+	 --------------
+	 
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-ui-tools/job/master/1748/+-+---+  
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-ui-tools/job/master/1755/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-rav/job/master/9324/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-ui-tools/job/master/1760/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-ui-tools/job/master/1762/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-ui-tools/job/master/1765/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-ui-tools/job/master/1766/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-ui-tools/job/master/1771/
+
+
+!. Keep it as product change until merge to master (qftest)
+...send mail to hades.
+
+
+    private boolean isSupportDynamic(final FElement element) {
+        String elementType;
+        if (element.getType() == FElementType.SOURCE_DYNAMIC_LIST) {
+            elementType = context.api().getSources().get(0).getDataObjectTypeName();
+        } else {
+            elementType = context.api().getSources().get(0).getDataObjectTypeName();
+        }
+       // final List<String> blackList = Arrays.asList("DELIMITED_FILE_SOURCE", "CSV_SOURCE", "element3");
+        return FDataObjectType.JSON_FILE_SOURCE.getTypeName().equals(elementType);
+    }
+	
+	---
+	
+	1. How to automate the existing not on E1 but on-prem.
+	
+	Contact nike team for the kahirul
+	
+	-------------
+	
+	https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/674/
+	
+	https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/16546/
+		
+	
+	---------
+	
+
+	
+	https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/678/
+	
+	--
+	
+	usercase1: EC2AMAZ-SRDG7C3_20230928-000006
+	
+	-------
+	
+	https://jira.uk.experian.local/browse/DIG-7902
+	
+	RUNTIME
+	
+	1. Integration test (Java11-> on old version)
+	2. Develop
+	3. Runtime testing (me talking to mangesh) it might be on BPS and contribute a lot.
+	  1. Framework yes (experian one)
+	  2. On prem (end to end)
+	  
+	4. Decision agent testing :Chong yong
+
+Have similified solutions , nothing happ DT.
+
+
+--
+
+We are calling decision agent from batch and running DT. Comparing the results . Can you tell us if this pipeline with some modifications can be used for runtime automation.
+
+
+
+
+Integration: https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/755/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/758/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-ui-tools-features/job/master/1023/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-ui-tools-features/job/master/1028/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/767/
+
+
+https://us-east-1.console.aws.amazon.com/ec2/home?region=us-east-1#Instances:search=:10.28.172.46;v=3;$case=tags:true%5C,client:false;$regex=tags:false%5C,client:false
+-----------
+
+Rntime TEsting :
+	
+
+
+---------------------
+
+1:2:1 Questions 
+
+1.  I'm about to clean up the temporary monorepo branches created by testpipeline-funcky-integration, are there any that any of you still need, eg because you're still running integration tests?
+2. What is the good news mail means to us ?
+3. How is the task difference than runtime testing ? Is because of .ser number(https://jira.uk.experian.local/browse/DIG-8296)
+4. Cumcumber script writing-->
+
+--
+
+https://analysiscenter.veracode.com/auth/index.jsp#ViewReportsDetailedReport:10416:849833:29989295:29959669:29975319:::::5705292
+
+---
+
+Todo
+
+1. Keep checking integration pipeline 
+2. Mono repo pipeline
+
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/814/
+
+	https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/816/
+	
+	
+	-------------------
+	
+	
+	test-bdd-performanc--> Performace Report run
+	--->/infrastructure-providers
+	---
+	Concers over work
+	Hospital appoitment
+	
+	
+	https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/19195/
+	
+	
+	----------
+	
+	10.28.172.127
+	
+	10.28.173.216 -->  My IP
+	
+	-------------------`
+1) Excel update
+2) Read the document
+3) PR raise
+
+-----------------
+architect/Secret@123
+analyst/Test@123
+
+
+
+TestintegrationPipeline
+
+https://jenkins-hb-mono-dev.experianone.io/job/software-powercurve-features/job/nike%252Ffuncky-integration-5933e98a-b792-492a-9659-0ea5a0dd1aa2/1/
+
+
+TestIntegration Pipeline : https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1102/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1103/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1104/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1105/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1107/-
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1108/ - > Skip test
+
+
+-----
+
+1) Send the 360 request
+2)Goal and what been done.
+3) What do you like more ?
+4) Personal development 
+
+--------------------
+
+1.cost of Experian e1
+2. 
+
+---
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-sds-ace/619/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/22211/
+
+monorepo build : https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1124/
+
+---
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1150/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1151/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/22537/
+--
+
+grammercheck "Tim is great to work with. He quickyl adapted to Melione team. I had interactions with him for funcky standalone automation, Dashboard and funcky code.  He has good understanding on studio working and helped me in understanding BPS flow.. Thanks and good luck."
+
+---
+Funcky
+
+Branch to master
+Funcky develop,
+
+
+Powercure:
+
+ funcky-develop 
+ Feature/SEG-12450
+ 
+ 
+ ---------
+ 
+ 
+ 
+ https://jenkins-hb-mono-dev.experianone.io/job/software-powercurve-features/job/feature%252FSEG-12450-update-versions/13/
+ 
+ 1. The merge of our change changed the state of PR
+ 2. Hospital appointment
+ 3. Assign the fake days and send out mail.
+ 4. Next year what is the project ? Parallel call for the rest call API
+ 
+ --
+ 
+ https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/28849/
+ 
+ https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1168/
+ Build all snapshot (2.5.2): https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1167/
+ 
+ 
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1175/
+ https://jenkins-hb-mono-dev.experianone.io/job/software-powercurve-features/job/nike%252Ffuncky-integration-f1114577-b68a-454c-bce0-e28f9f9cbe83/2/
+ 
+ 
+ https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1203/
+ https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1204/
+ https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1205/
+ 
+ https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1210/
+ https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1213/
+ https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1215/
+ https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1217/
+ https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1220/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1226/
+ 
+ https://jenkins-hb-mono-dev.experianone.io/job/software-combined-veracode-scan/job/develop/2326/
+ 
+ 
+ https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1232/
+ 
+
+Funcky_develop
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1249/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1251/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1252/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1255/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1258/
+
+
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-cm2/job/master/2345/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/23395/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/23397/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/23392/
+
+
+*****
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1261/
+
+
+ ----------------
+ 
+ 1. Stepped out of comfort zone of qftest and funcky code . Involved more into aws and automations with little help from tema
+ 2. Have cloud practioner and solution architect solution
+ 3.
+ 
+ originitions : https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/29634/
+ https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/23297/
+ https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/29636/
+ https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/29637/
+ ------------------------
+ https://jenkins-hb-mono-dev.experianone.io/job/software-powercurve-features/job/nike%252Ffuncky-integration-16a35ff9-dfd0-4bb7-9f16-d00665965baa/2/
+ 
+ 
+  https://jenkins-hb-mono-dev.experianone.io/job/software-powercurve-features/job/nike%252Ffuncky-integration-23832909-9101-4ca1-97e6-403431b8d7dd/1/
+ xml	
+ 1. Hackton AI Pilot from 
+ 2. New Piepleine
+ 
+ 
+
+ 3. Extend the task visibility
+ 
+ 
+ 
+ Jane has been supportive for Melione team with all the pipeline and other infrastructure issue. She's readily available for help and jumps to call when needed. Thanks for the support.
+ 
+ 
+ 
+ Runtime Pipeline: https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/29830/
+ 
+  https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/29912/
+  
+  https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/29925/
+ 
+ https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/29937/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/29962/(new build)
+ 
+ https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/23656/
+ 29912
+ 
+ -----------------
+ 
+   curl -F solution=@"auth-solution.xml" -F yaml=@"deployablesa.yaml" http://localhost:8181/upload
+   
+   curl -F solution=@"karmahdmusecase.xml" -F yaml=@"karmahdmusecase.yaml" http://localhost:8181/upload
+   
+   
+ 
+  curl -F solution=@"parallel-dpf.xml" -F yaml=@"deployables.yaml" http://localhost:8181/upload
+  
+   curl -X POST -d id="25505ea0-8451-445b-b041-a89a0008cb6e" http://localhost:8181/json
+   
+   
+   curl -F solution=@"CDG-15414-oauth-sanity-invalid.xml" -F yaml=@"deployables.yaml" http://localhost:8181/upload
+ 
+ curl -F solution=@"Solution_DataTransformation_FoldedDynamic.xml" -F yaml=@"Solution_DataTransformation_FoldedDynamic.yaml" http://localhost:8181/upload
+ 
+ curl -X POST -d id="dde14d8a-92f9-4604-9300-c10c4ab9db80" http://localhost:8181/json
+ 
+  curl -F solution=@"Solution_DataTransformation.xml" -F yaml=@"Solution_DataTransformation.yaml" http://localhost:8181/upload
+  
+   curl -X POST -d id="20136562-1337-43f6-babd-6396b218f435" http://localhost:8181/json
+   
+   curl -X POST -d id="07bd85b9-147d-496d-b968-bbb4d74093eb" http://localhost:8181/json
+   
+   java -jar "repo-command-service-1.20.33-20240314.141530-1.jar" application.properties --debug
+   
+   -----
+   
+   https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1274/
+   https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1275/
+   https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1278/
+   ---
+   
+   https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-ui-tools/job/master/2615/
+   
+   ------------
+   
+   1. take all 3 papers
+   
+   https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-ui-tools-features/job/master/1224/
+   https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-ui-tools-features/job/master/1231/
+   
+   https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/24324/
+   
+   
+   Install --> ODS (XE)
+   8306684
+   
+   https://jira.uk.experian.local/servicedesk/customer/portal/3
+   
+   
+   /software-powercurve-features :: nike :: funcky-integration-f797a7e8-a934-4cbc-913e-543dbbec58a6
+
+   /software-powercurve :: develop :: 11319
+   
+   1. BPF /DPF --> Validate the solution
+   2) simple DT (All4 validation)
+   
+   
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1418/
+   
+   -----------------
+   
+   https://pages.experian.local/pages/viewpage.action?pageId=981581138
+   https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1421/
+   
+ https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/31932/
+ 
+ --
+ 
+ 1. Jira or some ticket
+ 2.  work on configuration/working with solution architect
+ ---
+ 
+ New personal goal
+ Slat idea
+ Recording of the automation
+ 
+ team_select in (Aphrodite, Aphrodite) AND assignee in (C55545A)
+ 
+ 
+ https://jenkins-hb-mono-dev.experianone.io/job/software-powercurve-features/job/nike%252Ffuncky-integration-a8c529cd-00c9-41c2-9770-2098634d16a9/1/
+ 
+ https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/31980/
+ https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/31981/
+ 
+ https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/31995/
+ 
+ https://www.youtube.com/watch?v=GNf3ckwMRj4&list=PL1Lu04c8p8-SiZXI8oerem1JBGLPM7BO2
+ 
+ 
+ Logproper : https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/32005/
+ https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/32006/
+ 
+ https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/32008/
+ https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/32051/( Funckly-develop)
+ 
+ https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/32058/
+ 
+ --
+ 
+ Checks for comparision::
+ 
+ https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-funcky-integration/job/master/1520/
+ 
+ software-powercurve-features :: nike :: funcky-integration-91e007a2-8f7b-452e-a702-d874238c0653,1
+ 
+ 
+ ----------
+ 
+ Performance Improvement for Funcky DataTrewafnormation (explore and work on the project).
+ AWS solution architect certification.
+ Gitcopilot -->
+ Holiday time (Team calendar)
+ 
+ ------
+ 
+ 
+ ----
+	
+	
+	Runtime testing
+	stop the node
+	sick leave 
+	
+	--
+	
+	https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/33409/
+	https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/33410/ (	10.28.172.16) (failure)
+	
+	https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/33430/ (10.28.173.236) (sucess)
+	
+	  <name>com.experian.eda.fs.commondatamanagement</name>
+	  
+	  
+	  https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/26834/
+	  https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/26839/
+	  
+	  https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/26880/ (develop)
+	  https://jenkins-hb-eods-dev.experianone.io/job/testpipeline-qftest-team-runner/737/
+	  
+	  
+	  --
+	  
+Details
+Type: Sub-task
+Status:TO DO (View Workflow)
+Priority: Normal
+Resolution:Unresolved
+Affects Version/s:None
+Fix Version/s:None
+Component/s:None
+Labels:None
+Team Select:Melinoe
+Sprint:Melinoe FY24-6 Sprint 1, Melinoe FY24-6 Sprint 2, Melinoe FY24-6 Sprint 3, Melinoe FY24-7 Sprint 1, Melinoe FY24-7 Sprint 3, Melinoe FY24-7 Sprint 4, Melinoe FY24-8 Sprint 1, Melinoe FY24-8 Sprint 2, Melinoe FY-25-1 Sprint 1, Melinoe FY25-1 Sprint 3, Melinoe FY25-1 Sprint 4, Melinoe FY25-2 Sprint 1, Melinoe FY25-2 Sprint 2
+Description
+Repository	Branch to rebase	Rebase from
+powercurve	Funcky-develop	develop
+qftest-powercurve-studio	Funcky-develop	master
+test-bdd-oce	Funcky-develop	master
+https://code.experian.local/projects/DASA/repos/dasher/browse 	Funky-develop	develop
+https://code.experian.local/projects/DASA/repos/dasher/browse 	Funcky-develop-cpuReport	develop
+How To
+0. Notify team you are about to rebase the branches, so they don't merge anything in the meantime
+
+ 
+
+1. Navigate to powercurve / qftest-powercurve-studio / test-bdd-oce   directory in Git Bash terminal
+
+2. Checkout develop / master branch
+
+git checkout develop
+3. Pull latest changes
+
+git pull
+4. Checkout Funcky-develop branch
+
+git checkout Funcky-develop
+5. Pull latest changes
+
+git pull
+6. Better to reset local branch : git fetch
+
+git reset --hard origin/develop
+
+7. Rebase onto latest develop / master
+
+git rebase develop
+8. Force-push branch
+
+git push --force-with-lease
+
+--
+ git branch --set-git add upstream-to=origin/DIG-11008-parallel-rest-2 melinoe/DIG-11008-parallel-rest-2
+
+git add new-file.txt
+git commit --amend --no-edit
+
+
+mvn clean install -Dmaven.test.skip=true
+
+mvn clean install -U
+
+
+rm -rf ~/.m2/repository
+
+git restore --staged src/test/java/com/experian/eda/component/decisionprocessflow/business/validation/rules/ParallelCallValidationRuleTest.java
+git restore src/test/java/com/experian/eda/component/decisionprocessflow/business/validation/rules/ParallelCallValidationRuleTest.java
+
+
+
+rename "DA.jar" da-standalone-32.3.1-JAVA11-SNAPSHOT.jar
+
+
+
+g -m "EEDIG-1844:Fix the issue with incorrect error for nested parallel calls"
+
+git commit -m "EEDIG-3914:Affordability wiremock"
+
+
+git commit -m "EEDIG-3595:Investigagting the failure"
+
+
+git commit -m "EEDIG-1519:Fix code review"
+
+git commit -m "EEDIG-3273:V1"
+
+
+git commit -m "MCP testrail"
+
+git commit -m "EEDIG-1519:Fix code review"
+
+git commit -m "EEDIG-2403:Fix code"
+
+git commit -m "EEDIG-1928:Fix code review"
+
+git commit -m "EEDIG-3312:Upgrade json-path to version 2.9.0 in SCL API"
+
+
+git commit -m "EEDIG-1502:J21- esolve the issue with two modules missing unit-tests"
+
+
+1082f89f791f27f0f966a51447025e8181e71c80
+
+
+git commit -m "EEDIG-3815: Updating Junit"
+
+git commit -m "DIG-14210:Add DPF component to list of supported components in a fork and join"
+
+git commit -m "EEDIG-277:Create validation warning on attempt to write to same characteristics in parallel or read and write in parallel"
+
+git "DIG-11008:Fixing Junit Sonar"
+ git diff --name-only DIG-10955
+
+
+-Dmaven.test.failure.ignore=true
+
+
+C:\Users\c78922A\workspace\working\Automation\powercurve\
+
+strategy-management/capability-strategy-definition/modules/Component_Decision_Process_Flow_GUI/src/test/java/com.experian.eda.component.decisionprocessflow.gui.action
+ 
+ 
+ https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/33978/
+ 
+ 
+ software-powercurv-feature
+ 
+ ---
+ 
+ https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/34006/
+ 
+ 
+ 
+ https://pages.experian.local/pages/viewpage.action?pageId=1373444584
+ INC8985464
+ 
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/27583/
+
+http://10.226.195.119:8080/job/eda-ami-builder-branch-pipeline/job/develop/2226/
+
+http://jenkins.eods.dev.uk.experian.eeca:8080/view/QA/job/qftest-team-runner/3901/
+http://jenkins.eods.dev.uk.experian.eeca:8080/view/QA/job/qftest-team-runner/3904/
+http://jenkins.eods.dev.uk.experian.eeca:8080/view/QA/job/qftest-team-runner/3906/
+
+http://jenkins.eods.dev.uk.experian.eeca:8080/job/qftest-runner/8640/
+http://jenkins.eods.dev.uk.experian.eeca:8080/job/qftest-runner/8645/
+http://jenkins.eods.dev.uk.experian.eeca:8080/job/qftest-runner/8646/
+http://jenkins.eods.dev.uk.experian.eeca:8080/job/qftest-runner/8647/
+
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/27650/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/27657/
+http://jenkins.eods.dev.uk.experian.eeca:8080/job/qftest-runner/8649/
+http://jenkins.eods.dev.uk.experian.eeca:8080/job/qftest-runner/8648/
+http://jenkins.eods.dev.uk.experian.eeca:8080/job/qftest-runner/8651/
+
+http://jenkins.eods.dev.uk.experian.eeca:8080/job/qftest-runner/8659/
+http://jenkins.eods.dev.uk.experian.eeca:8080/job/qftest-runner/8680/
+http://jenkins.eods.dev.uk.experian.eeca:8080/job/qftest-runner/8682/
+
+http://jenkins.eods.dev.uk.experian.eeca:8080/job/qftest-runner/8684/
+
+http://jenkins.eods.dev.uk.experian.eeca:8080/view/Assembly%20line/job/eda-ami-builder-branch-pipeline/job/aphrodite%252FEODS-14378-pcds-v2/69/
+http://jenkins.eods.dev.uk.experian.eeca:8080/job/qftest-runner/8757/
+
+
+http://jenkins.eods.dev.uk.experian.eeca:8080/view/Assembly%20line/job/eda-ami-builder-branch-pipeline/job/aphrodite%252FEODS-14378-pcds-v2/72/
+
+------------------------------
+
+8/10 books (54)
+6/7  (14) childrens (7:1)
+£3730 (£290/£250)
+
+3300
+
+-----£150
+ 
+ ------
+ 
+ tting permissions to folder C:/Program Files/PowerCurve/Business Process Server\Business Process Server v1.13
+Permissions successfully set to folder C:/Program Files/PowerCurve/Business Process Server\Business Process Server v1.13 for USERS
+
+https://jenkins-hb-cdg-dev.experianone.io/job/software-svc-decision-agent/job/feature%252FDIG-11637/4/
+
+Notes :  
+
+BPS  trigger BPC >> BPF >>DA Call >> DPF (stratregy) (Runtime )
+
+-J-Denable-dpf-fork-join=true
+DA stanaalone (SMaas)
+ONPrem DA (ODS/SDS) (Runtime)
+ONPREM EPP
+Online studio ( Never) /Assend
+EODS -- >Online SDS (UI) (V2 & V3)
+PCDS--> Online ODS (UI)
+V1 --> Onprem
+V2 --> EC2
+V3- EKS
+
+
+
+
+------------
+
+Mike : https://jenkins-hb-cdg-dev.experianone.io/view/Blueprint/job/e1-bp-create-usecase-environment/job/develop/10573/
+
+--------------------
+
+Chimera use : 
+ https://jenkins-hb-cdg-dev.experianone.io/job/one-click-qilin-e1-regression-test/job/master/3057/ 
+Micro: https://jenkins-hb-cdg-dev.experianone.io/job/one-click-qilin-e1-regression-test/job/master/
+
+On the screens "Business Process Server Configuration", "Job Management Configuration" and "OpenAM Connection Details" use the following host names in accordance: bps.experian.local, bps.experian.local and sso.experian.local; change the port for sso.experian.local to 9080.
+
+
+--
+
+https://eossp.experian.local/eks-dev/da-saas-dev-hb-cdg-dev/clients/
+
+
+https://global-da.slack.com/archives/CNEDN1UUQ/p1726798950116619
+
+https://eossp.experian.local/eks-dev/da-saas-dev-hb-cdg-dev/clients/037340abb2884ad08dbaef12db7263
+
+
+https://eossp.experian.local/eks-dev/da-saas-dev-hb-cdg-dev/clients/173a37526f034143a58e477d1904f3
+
+
+--
+
+https://jenkins-hb-cdg-dev.experianone.io/view/Blueprint/job/e1-bp-create-usecase-environment/job/develop/10605/
+
+https://jenkins-hb-cdg-dev.experianone.io/view/Blueprint/job/e1-bp-create-usecase-environment/job/develop/10616/
+
+https://jenkins-hb-cdg-dev.experianone.io/view/Blueprint/job/e1-bp-create-usecase-environment/job/develop/10627/
+
+https://code.experian.local/users/c78922a/repos/stack-da-saas-dev-hb-cdg-dev
+
+https://code.experian.local/scm/~c78922a/stack-da-saas-dev-hb-cdg-dev.git
+
+https://code.experian.local/scm/~c21255a/stack-da-saas-dev-hb-cdg-dev.git
+
+blueprintRepository: https://code.experian.local/scm/dasa/decision-agent-blueprints.git
+blueprintRepositoryReference: feature/DIG-11637
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/38768/
+
+
+
+
+			 List<String> list = java.util.Arrays.asList(REST_CALL, REST_CALL);
+            /*boolean contains = list.stream().anyMatch(type.getTypeDisplayName()::equals);
+            if (!contains) {
+
+            }*/
+			
+			
+			-------------
+			
+			https://www.bbc.co.uk/bitesize/subjects/zbwg7v4
+			
+			
+			https://jenkins-hb-dig-dev.experianone.io/job/testpipeline-microservices/job/DIGTest-datahub/1435/
+			
+			7dfce387e12c4c0fa972e8a4c082b3
+			
+			https://jenkins-hb-dig-dev.experianone.io/blue/organizations/jenkins/e1-bp-create-client-environment
+			
+			https://eossp.experian.local/eks-dev/da-saas-dev-hb-dig-dev/clients/4816dca79fed4264a65c0c9ad70828
+			
+			melinoe004
+			
+			
+			
+			
+	C:\Users\C78922A\AppData\Local\Programs\Python\Python39\python.exe scenario-1 --model=gpt-4-turbo C:/Users/C78922A/workspace/software_lib_fuzzy_genai/mapping.py
+C:\Users\C78922A\AppData\Local\Programs\Python\Python39\python.exe: can't open file 'C:\Users\C78922A\workspace\software_lib_fuzzy_genai\scenario-1': [Errno 2] No such file or directory
+
+Process finished with exit code 2
+
+
+
+main/features/originations/BusinessProcessFlow/Or.DecisionProcessFlow.ForkJoinParallel.Deployment.feature
+
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/39148/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/39149/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/39149/	
+
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/39153/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/39154/
+
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/39155/
+
+
+"C:\Program Files\Python312\python.exe" "C:\Program Files\Python312\Lib\test\test_import\data\circular_imports\source.py" .venv/bin/activate
+"C:\Program Files\Python312\Scripts\pip.exe" install --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org --upgrade pip
+"C:\Program Files\Python312\Scripts\pip.exe" install --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org -e .
+The to run it entered
+"C:\Program Files\Python312\python.exe" mapping.py scenario-3
+
+
+"C:\Users\C78922A\AppData\Local\Programs\Python\Python39\python.exe" "C:\Users\C78922A\AppData\Local\Programs\Python\Python39\Lib\test\test_import\data\circular_imports\source.py" .venv/bin/activate
+
+
+C:\Users\C78922A\AppData\Local\Programs\Python\Python39\Lib;C:\Users\C78922A\AppData\Local\Programs\Python\Python39\DLLs;C:\Users\C78922A\AppData\Local\Programs\Python\Python39\Lib\lib-tk;
+
+"C:\Users\C78922A\AppData\Local\Programs\Python\Python39\Scripts\pip.exe" install --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org --upgrade pip
+
+"C:\Users\C78922A\AppData\Local\Programs\Python\Python39\Scripts\pip.exe" install --trusted-host pypi.python.org --trusted-host files.pythonhosted.org --trusted-host pypi.org -e .
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/39221/
+
+
+python.exe" "C:\Program Files\Python312\Lib\test\test_import\data\circular_imports\source.py" .venv/bin/activate
+
+
+"C:\Program Files\Python312\python.exe" "C:\Program Files\Python312\Lib\test\test_import\data\circular_imports\source.py" .venv/bin/activate
+
+
+https://pages.experian.local/display/GPD/DPF+deployment
+
+
+
+feature/DIG-12372
+
+https://artifactory-mars.cd.genesaas.io/artifactory/
+
+pc-feature-dig-12372-snapshot-local
+
+/com/experian/eda/assembly/ea-cli-assembly/1.10.54-SNAPSHOT/ea-cli-assembly-1.10.54-20241015.105302-1-linux.tar.gz
+
+https://jenkins-hb-eods-dev.experianone.io/job/utility-create-e1-environment/4516/
+
+https://jenkins-hb-eods-dev.experianone.io/job/utility-create-e1-environment/4517/
+
+https://jenkins-hb-eods-dev.experianone.io/job/utility-create-e1-environment/4524/
+
+--
+
+https://jenkins-hb-eods-dev.experianone.io/job/testpipeline-eods-deploy-to-runtime/1126/
+
+https://jenkins-hb-eods-dev.experianone.io/job/testpipeline-eods-deploy-to-runtime/1128/
+
+https://da-saas-nnarjhs5zw57.hb-eods-dev.experianone.io/studio/ --> My instance
+
+https://eossp.experian.local/eks-dev/da-saas-dev-hb-eods-dev/clients/d4d5a7b09f484ef0b6574fa19a6f56
+
+--
+
+https://jenkins-hb-eods-dev.experianone.io/job/testpipeline-eods-deploy-to-runtime/1130/
+
+PCS: https://jenkins-hb-eods-dev.experianone.io/job/e1-bp-create-usecase-environment/job/develop/37574/
+
+
+--
+
+Deploy option for sanbox: https://jenkins-hb-eods-dev.experianone.io/job/testpipeline-eods-deploy-to-runtime/	
+
+PCD: https://jenkins-hb-eods-dev.experianone.io/job/utility-create-e1-environment/4580/
+https://jenkins-hb-eods-dev.experianone.io/job/utility-create-e1-environment/4585/
+https://jenkins-hb-eods-dev.experianone.io/job/utility-create-e1-environment/4588/
+
+
+--
+
+
+
+https://jenkins-hb-eods-dev.experianone.io/job/utility-create-e1-environment/4609/
+https://jenkins-hb-eods-dev.experianone.io/job/utility-create-e1-environment/4611/
+
+https://jenkins-hb-eods-dev.experianone.io/job/utility-create-e1-environment/4633/
+
+https://eossp.experian.local/eks-dev/da-saas-dev-hb-eods-dev/clients/173a37526f034143a58e477d1904f3?activeTab=info
+
+--
+
+To get token: 
+aws eks get-token --profile devops-eks --no-verify-ssl --cluster-name hb-eods-dev
+
+
+https://jenkins-hb-eods-dev.experianone.io/job/utility-create-e1-environment/4725/
+
+
+software-powercurve :: develop
+
+https://jenkins-hb-eods-dev.experianone.io/job/utility-create-e1-environment/4730/
+
+11/11/2024
+10.28.172.79
+
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/41594/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/41476/parameters/
+
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/41598/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/41606/
+
+--
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/41617/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/41620/
+
+Linux: https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/41613/
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/41621/
+
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/41626/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/41625/
+
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/41640/	
+
+FULL SUIT:: 
+FULL SUIT:: 
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/41708/
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-powercurve-runtime-features/job/master/41722/
+
+
+https://jenkins-hb-cdg-dev.experianone.io/job/one-click-qilin-e1-regression-test/job/master/3651/
+
+40-47-36
+
+81490869->acc
+
+Kavitha Malhotra
+
+-------
+
+Openshit /pcg file
+
+1. Running karmara usecase on this feature branch
+2. EKS and checking specific bpe_da.properties is 50
+3. Karma usecase , in blueprint aseesmbly 50->100 and merge to develop
+4. Runnin Karma usecase in new branch in assesmbly
+5. Merge into develop :: powercurve/develop
+
+
+Just only Ian
+
+https://eossp.experian.local/eks-dev/da-saas-dev-hb-cdg-dev/clients/18b334c9b9594e9abe94c5afee8be9/
+
+
+https://eossp.experian.local/eks-dev/da-saas-dev-hb-cdg-dev/clients/4dcb4c0b9e2b4e02a5a46f6a8e2360
+
+https://eossp.experian.local/eks-dev/da-saas-dev-hb-cdg-dev/clients/a4d8862adeb44f72be44a6e031a892
+
+https://jenkins-hb-cdg-dev.experianone.io/job/one-click-qilin-e1-regression-test/job/master/3672/
+https://jenkins-hb-cdg-dev.experianone.io/job/one-click-qilin-e1-regression-test/job/master/3658/
+
+https://jenkins-hb-cdg-dev.experianone.io/job/e1-bp-create-usecase-environment/job/develop/11492/
+
+https://jenkins-hb-cdg-dev.experianone.io/job/e1-bp-create-usecase-environment/job/develop/11497/
+
+--
+Agile foundation
+Agile Professional
+Change Management foundation
+Project Managemtn qualification (PMQ-APM)
+
+--- £3495
+
+carrerSuppor
+
+--
+
+Finance plan:	
+
+
+
+
+
+https://jenkins-hb-cdg-dev.experianone.io/job/e1-bp-create-usecase-environment/job/develop/11500/
+
+
+https://jenkins-hb-cdg-dev.experianone.io/job/one-click-qilin-e1-regression-test/job/master/3674/
+
+https://jenkins-hb-cdg-dev.experianone.io/job/e1-bp-create-usecase-environment/job/develop/11502/
+
+
+----------
+Training on the property estate
+
+Lawanya Gamsani
+
+1. Say investing , what is the best apporach ?
+2. List of people (who is available? )
+3. Training. (Fielding Finance)
+
+(HMO --> Property)
+
+
+Solitor Contact -->
+
+Mortage adviosor --> Talk to property advisor 
+
+-----
+
+7.00 -->
+
+-----------------
+1. What kind of service -- > source properties , letting agent (South and North Yorkshire)
+2. 50/60k
+3. Tax effient ways
+4. 40 people .
+
+0752327117 -->
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/32627/
+
+https://jenkins-hb-cdg-dev.experianone.io/job/testpipeline-performance-runtime-qilin/job/qilin%252Fmelinoe-DIG-13003/56/
+
+https://jenkins-hb-cdg-dev.experianone.io/job/testpipeline-performance-runtime-qilin/job/qilin%2Fmelinoe-DIG-13003/60/
+
+Wiremock:
+https://jenkins-hb-cdg-dev.experianone.io/job/software-svc-mock-rest-server/job/feature%252FDIG-10948-melinoe-perf-mappings/39/
+https://jenkins-hb-cdg-dev.experianone.io/job/testpipeline-performance-runtime-qilin/job/qilin%2Fmelinoe-DIG-13003/60/
+
+---
+
+https://code.experian.local/scm/~c04746a/stack-da-saas-dev-hb-cdg-dev.git
+
+Karmarausecase is created from stack -> https://code.experian.local/users/c04746a/repos/stack-da-saas-dev-hb-cdg-dev/commits/7fbb2e7cc67559ce9e5fc3ab7710124eb88cd557#pc-karmahdmusecase%2Fassemblies.yml .
+
+The assembles are modified to refer to blueprintRepositoryReference featurebranch (https://code.experian.local/scm/dasa/software-use-gsg-karmahdmusecase.git). In here we change Sandbox default parameters and deploy solution files inside the karmausecase.
+The RuntimePErformance uses Jmeter scripts from https://code.experian.local/projects/DASA/repos/test-perf-integration-automation.
+The Sync Jenkin is run to update any changes to default param.
+
+Jordan instane : https://eossp.experian.local/eks-dev/da-saas-dev-hb-cdg-dev/clients/ce2b1be1ae83411fb9606d6ae753b1
+
+
+4POD (Green) :: https://jenkins-hb-cdg-dev.experianone.io/job/testpipeline-performance-runtime-qilin/job/qilin%252Fmelinoe-DIG-13003/109/
+
+
+Same results:
+114 (6POD)
+https://jenkins-hb-cdg-dev.experianone.io/job/testpipeline-performance-runtime-qilin/job/qilin%252Fmelinoe-DIG-13003/115/
+
+
+-------------------
+
+1. Company open 
+2. Company account 
+3. Multiple seller
+4. 
+
+Chilen : 
+
+Mangesh (Directly )
+
+----
+
+1. What other charges.
+2. Solicitor Charges
+3. Stamp duty charges 
+
+
+Co-pilot: Intiative.
+
+
+
+
+
+-------------------
+
+1.GENAI - Usage.(Formulate the try)
+2.Closer to May.
+3. Permission to tryout new things.
+
+--
+
+1. CDG request, locked them
+2. Leave Afternoon
+3. GENAI training
+4. Reporting 
+
+
+
+---------------
+
+1. No reels
+2. Revise the foundation concept
+3. Start the Level2 certification
+
+
+--
+
+indivual and small bussiness complaince
+HMRC 
+PX9 1LE
+
+--
+
+Add the confluence page
+not to pick task untill release
+Leave on monday
+
+https://jenkins-hb-mono-dev.experianone.io/job/testpipeline-studio-features/job/master/41134/    
+
+https://jenkins-hb-cdg-dev.experianone.io/job/one-click-qilin-e1-regression-test/job/master/6631/
+
+Part40: https://jenkins-hb-eods-dev.experianone.io/job/testpipeline-qftest-team-runner/4499/
+
+
+Tags: @sandbox @parallelcall @bps @p2 @use-case-karma @priority-p2---high @test-id-52312876 @service-bps-parallel-call
